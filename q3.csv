@@ -1,0 +1,60 @@
+,ArtistName,Popularity,MAX(Albums.ReleaseDate)
+0,Drake,100,2015-02-12
+1,Ariana Grande,97,2018-11-03
+2,Billie Eilish,93,2018-03-30
+3,Ed Sheeran,93,2017-11-10
+4,Lady Gaga,92,2016-10-21
+5,Rihanna,91,2016-01-28
+6,BTS,91,2018-08-24
+7,Selena Gomez,91,2017-10-25
+8,Kendrick Lamar,91,2017-04-14
+9,Calvin Harris,90,2014-10-31
+10,Bruno Mars,90,2018-12-07
+11,Maroon 5,90,2015-05-15
+12,Shawn Mendes,90,2018-09-27
+13,Taylor Swift,89,2018-04-13
+14,The Chainsmokers,88,2016-07-29
+15,Zedd,86,2018-09-27
+16,Avicii,85,2017-08-10
+17,Charlie Puth,84,2018-05-11
+18,BLACKPINK,84,2018-12-05
+19,Lana Del Rey,84,2013-02-01
+20,Lauv,84,2018-05-31
+21,Steve Aoki,84,2018-08-24
+22,Miley Cyrus,83,2017-05-11
+23,Alessia Cara,83,2017-05-05
+24,Britney Spears,82,2011-03-25
+25,Guns N' Roses,82,1987-01-01
+26,Led Zeppelin,81,1975-02-24
+27,Glee Cast,79,2015-02-11
+28,EXO,79,2017-09-05
+29,R3HAB,79,2014-10-31
+30,Niall Horan,77,2017-10-20
+31,Red Velvet,76,2018-08-06
+32,Jeremy Zucker,76,2018-09-07
+33,Frédéric Chopin,75,2010-06-22
+34,MAX,75,2016-10-14
+35,Jay Chou,74,2018-01-18
+36,Carly Rae Jepsen,74,2012-01-01
+37,Colbie Caillat,74,2007-01-01
+38,Melanie Martinez,73,2012-01-01
+39,Kina Grannis,73,2018-08-10
+40,Sara Bareilles,73,2015-04-28
+41,BIGBANG,71,2018-03-13
+42,Jay Park,68,2016-10-20
+43,Crush,67,2016-01-29
+44,Anthem Lights,67,2015-07-17
+45,SUNMI,67,2018-01-18
+46,Mayday,64,2016-07-21
+47,Eric Nam,64,2018-04-11
+48,Adam Lambert,64,2015-06-11
+49,G-DRAGON,63,2017-06-08
+50,Bolbbalgan4,62,2017-09-28
+51,Lea Michele,59,2006-01-01
+52,V?.,48,2018-11-15
+53,Warm Brew,47,2016-06-10
+54,Hua Chen Yu,40,2018-08-29
+55,Shane Koyczan and the Short Story Long,40,2007-01-01
+56,Ng?t,39,2018-03-27
+57,Trang,37,2017-03-18
+58,Cá H?i Hoang,36,2018-04-06

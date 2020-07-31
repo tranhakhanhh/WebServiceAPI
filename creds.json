@@ -1,0 +1,10 @@
+{
+    "spotify": {
+        "appid": "393ab8e9d5804dd3a3cbe6ed01efb54c", 
+        "appsecret": "033bc6535ccd4926a85e5bb5f0b7ea80", 
+        "redirect_uri": "https://linma619.github.io/CS181Project/",
+        "code": "",
+        "state": "170599190698",
+        "mytoken": ""
+    }
+}
